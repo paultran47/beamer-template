@@ -1,6 +1,6 @@
-# beamertemplate
+# beamer-template
 
-[MIT licensed](https://github.com/paultran47/beamertemplate/blob/main/LICENCE.md).
+[MIT licensed](https://github.com/paultran47/beamer-template/blob/main/LICENCE.md).
 
 <details>
   <summary>Table of contents</summary>
@@ -18,7 +18,7 @@ Colour-blind-friendly Beamer template with Biblatex integration and PDF metadata
 management
 
 <p align="right">
-  (<a href="#beamertemplate">back to top.</a>)
+  (<a href="#beamer-template">back to top.</a>)
 </p>
 
 ---
@@ -35,7 +35,7 @@ the PDF metadata in order for PDF readers to properly display the true total
 number of frames
 
 <p align="right">
-  (<a href="#beamertemplate">back to top.</a>)
+  (<a href="#beamer-template">back to top.</a>)
 </p>
 
 ---
